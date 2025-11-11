@@ -41,6 +41,18 @@ a {
   border-bottom: 1px solid var(--background-color1);
 }
 
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 6.6px;
+  margin-bottom: -18px;
+}
+
+.brand img {
+  height: 27px;
+  padding: 0px;
+}
+
 .footer {
   border-top: 1px solid var(--background-color1);
 }
